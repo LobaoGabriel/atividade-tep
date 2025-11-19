@@ -9,3 +9,5 @@ for x in amigos:
     time.sleep(2)
 
 print('--- FIM DO PROGRAMA ---')
+
+programa alterado
